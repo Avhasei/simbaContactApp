@@ -1,0 +1,50 @@
+page-home {
+
+}
+
+.btnAboutUser{
+	border-radius: 2px;
+    overflow: hidden;
+    height: 5.6rem;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: black;
+    background-color: transparent;
+}
+
+.profilePicImg{
+    max-height: 90px;
+    max-width: 90px;
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.text-input-md{
+	    margin-left: 0px;
+}
+
+.toolbar-background-md {
+    border-color: transparent;
+    background: transparent;
+}
+
+button.fab.fab-md {
+    background: black;
+}
+
+.contactImg{
+    width: 14%;border-radius: 50%;margin-right: 5%;
+}
+
+.contactTitle{
+    line-height: 3.2 !important;
+}
+
+.userInfoDiv{
+    text-align: center;
+}
+
+.colorBgBlack{
+    background: black;
+}
